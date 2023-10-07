@@ -1,0 +1,9 @@
+.banner {
+    width: 100%;
+    height: 347px;
+    /*background-image: url('https://socialzero.com.br/wp-content/uploads/2022/12/Como-Pagar-Meia-Entrada-no-Cinema.png');*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 68px;
+}
